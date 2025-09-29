@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DeliveryGo.Core.Command.Commands;
 
 namespace DeliveryGo.Core.Shared.Contracts
 {
-    public interface ICartPort
+    public interface ICommand
     {
-        void ExecuteCommand(ICommand command);
+        void Execute();
     }
 }
