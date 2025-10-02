@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Strategy.ShippingStrategies
+namespace DeliveryGo.Application.Services.Implementations
 {
-    public class MotorcycleShipping
+    public class CartPortAdapter
     {
     }
 }

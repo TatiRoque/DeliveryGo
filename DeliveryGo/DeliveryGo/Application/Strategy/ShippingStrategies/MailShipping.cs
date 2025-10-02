@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Order.Observers
+namespace DeliveryGo.Application.Strategy.ShippingStrategies
 {
-    public class CustomerObserver
+    public class MailShipping
     {
     }
 }

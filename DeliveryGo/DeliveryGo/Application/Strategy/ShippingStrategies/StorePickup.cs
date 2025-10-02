@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Services.Implementations
+namespace DeliveryGo.Application.Strategy.ShippingStrategies
 {
-    public class OrderService
+    public class StorePickUp
     {
     }
 }

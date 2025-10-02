@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Services.Implementations
+namespace DeliveryGo.Application.Order.Observers
 {
-    public class CartPortAdapter
+    public class CustomerObserver
     {
     }
 }
