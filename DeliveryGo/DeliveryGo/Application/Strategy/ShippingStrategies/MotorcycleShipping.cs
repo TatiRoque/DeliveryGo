@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Order.Builders
+namespace DeliveryGo.Application.Strategy.ShippingStrategies
 {
-    public class OrderBuilder
+    public class MotorcycleShipping
     {
     }
 }

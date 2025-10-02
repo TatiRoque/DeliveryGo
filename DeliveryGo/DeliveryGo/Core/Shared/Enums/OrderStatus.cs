@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DeliveryGo.Core.Shared.Enums
 {
-    public class OrderStatus
+    public enum OrderStatus
     {
+        Pending,    // Order sin pagar todavía
+        Paid,       
+        Cancelled,  
+        Shipped     
     }
 }
+

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeliveryGo.Core.Order.Observers
+namespace DeliveryGo.Application.Order.Builders
 {
-    public class AuditObserver
+    public class OrderBuilder
     {
     }
 }

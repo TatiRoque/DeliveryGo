@@ -1,157 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\",
+  "WorkspaceRootPath": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\command\\invokers\\carteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\invokers\\carteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\icartport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\icartport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\setquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\setquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\command\\models\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\models\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\storepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\storepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\motorcycleshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\motorcycleshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\cartportadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\cartportadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\mppayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\mppayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\factories\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\factories\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\adapters\\mppaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\adapters\\mppaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\adapters\\fakempsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\adapters\\fakempsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\logisticsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\logisticsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\customerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\customerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\auditobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\auditobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\order\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\core\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\users\\maia\\desktop\\deliverygo\\deliverygo\\deliverygo\\deliverygo\\application\\facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\icartport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\icartport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\command\\invokers\\carteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\invokers\\carteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\setquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\setquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\command\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\commands\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\command\\models\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\command\\models\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\storepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\storepickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\motorcycleshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\motorcycleshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\strategy\\shippingstrategies\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\strategy\\shippingstrategies\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\shared\\contracts\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\shared\\contracts\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\services\\implementations\\cartportadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\services\\implementations\\cartportadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\mppayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\mppayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\implementations\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\implementations\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\factories\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\factories\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\adapters\\mppaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\adapters\\mppaymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\payment\\adapters\\fakempsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\payment\\adapters\\fakempsdk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\logisticsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\logisticsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\customerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\customerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\order\\observers\\auditobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\observers\\auditobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\core\\order\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\core\\order\\builders\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|c:\\archivos tds\\programacion\\repositorios\\deliverygo\\deliverygo\\deliverygo\\application\\facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959E3D0F-5FC3-411B-83C1-9BA0E3CA8BF0}|DeliveryGo\\DeliveryGo.csproj|solutionrelative:deliverygo\\application\\facade\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -162,80 +162,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T00:07:46.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IObserver.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:09:19.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddItemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:12:16.754Z",
+              "WhenOpened": "2025-09-26T21:10:49.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RemoveItemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:12:28.995Z",
+              "WhenOpened": "2025-09-26T21:51:20.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SetQuantityCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:12:56.927Z",
+              "WhenOpened": "2025-09-26T21:10:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:50:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:10:11.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IShippingStrategy.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:08:16.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShippingService.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:08:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Config\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Config\\ConfigManager.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Config\\ConfigManager.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Config\\ConfigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:53:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:11:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShippingType.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:11:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ICartPort.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\ICartPort.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -244,63 +309,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartEditor.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "SetQuantityCommand.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\SetQuantityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:13:39.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:10:11.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:09:55.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartState.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Models\\CartState.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Models\\CartState.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Models\\CartState.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Models\\CartState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:14:04.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T21:12:56.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "RemoveItemCommand.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\RemoveItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:12:28.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddItemCommand.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Commands\\AddItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:12:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartEditor.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Invokers\\CartEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:13:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:07:46.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:09:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Item.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:09:55.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartState.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Models\\CartState.cs",
+              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Command\\Models\\CartState.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Command\\Models\\CartState.cs",
+              "RelativeToolTip": "DeliveryGo\\Core\\Command\\Models\\CartState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:14:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "MailShipping.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MailShipping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,23 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:10:25.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Program.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Program.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Program.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Program.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Program.cs",
               "RelativeToolTip": "DeliveryGo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "StorePickup.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\StorePickup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "MotorcycleShipping.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Strategy\\ShippingStrategies\\MotorcycleShipping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,47 +453,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShippingType.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\ShippingType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:11:19.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentType.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\PaymentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:11:34.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:10:49.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ISubject.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\ISubject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,35 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IShippingStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:08:16.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IShippingService.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IShippingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:08:40.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IPayment.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Shared\\Contracts\\IPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,23 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ShippingService.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Services\\Implementations\\ShippingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:50:58.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "CartPortAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Services\\Implementations\\CartPortAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -464,23 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Services\\Implementations\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:51:20.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MpPayment.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Implementations\\MpPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -488,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CreditCardPayment.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Implementations\\CreditCardPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "BankTransferPayment.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Implementations\\BankTransferPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -512,11 +525,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "PaymentFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Factories\\PaymentFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -524,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "TaxDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Decorators\\TaxDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -536,11 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "MpPaymentAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Adapters\\MpPaymentAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -548,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "FakeMpSdk.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Payment\\Adapters\\FakeMpSdk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -560,11 +573,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "LogisticsObserver.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Order\\Observers\\LogisticsObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -572,11 +585,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CustomerObserver.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Order\\Observers\\CustomerObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -584,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "AuditObserver.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Order\\Observers\\AuditObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -596,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "OrderBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
               "RelativeToolTip": "DeliveryGo\\Core\\Order\\Builders\\OrderBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -608,23 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ConfigManager.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Config\\ConfigManager.cs",
-              "RelativeDocumentMoniker": "DeliveryGo\\Core\\Config\\ConfigManager.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Core\\Config\\ConfigManager.cs",
-              "RelativeToolTip": "DeliveryGo\\Core\\Config\\ConfigManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T21:53:28.368Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 37,
               "Title": "CheckoutFacade.cs",
-              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
+              "DocumentMoniker": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
               "RelativeDocumentMoniker": "DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
-              "ToolTip": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
+              "ToolTip": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
               "RelativeToolTip": "DeliveryGo\\Application\\Facade\\CheckoutFacade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
