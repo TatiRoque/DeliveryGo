@@ -7,12 +7,16 @@ using DeliveryGo.Core.Shared.Contracts;
 
 namespace DeliveryGo.Core.Payment.Implementations
 {
-    public class MpPayment :IPayment
+    public class CardPayment : IPayment
     {
-        public string Name => "MercadoPago";
+        public string Name => "Credit Card";
+
         public bool ProcessPayment(decimal amount)
         {
-            Console.WriteLine($"Processing {amount:C} with MercadoPago.");
+            if (amount <= 0)
+                return false;
+
+            Console.WriteLine($"[CardPayment] Processed credit card payment of ${amount}");
             return true;
         }
     }

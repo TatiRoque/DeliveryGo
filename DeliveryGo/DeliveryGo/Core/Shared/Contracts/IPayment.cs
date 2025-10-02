@@ -8,5 +8,8 @@ namespace DeliveryGo.Core.Shared.Contracts
 {
     public interface IPayment
     {
+        bool ProcessPayment(decimal amount);
+        string Name { get; }
+
     }
 }
