@@ -8,7 +8,7 @@ namespace DeliveryGo.Core.Shared.Enums
 {
     public enum OrderStatus
     {
-        Pending,    // Order sin pagar todavía
+        Pending,    
         Paid,       
         Cancelled,  
         Shipped     

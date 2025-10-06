@@ -11,23 +11,22 @@ namespace DeliveryGo.Core.Shared.Entities
     public class Order
     {
         public Guid Id { get; private set; }
-        public List<CartItem> Items { get; private set; }
+        public Cart Cart { get; private set; }
         public decimal TotalAmount { get; private set; }
         public DateTime CreatedAt { get; private set; }
         public OrderStatus Status { get; private set; }
 
-        public Order(List<CartItem> items, decimal totalAmount)
+        public Order(Cart cart)
         {
             Id = Guid.NewGuid();
-            Items = new List<CartItem>(items);
-            TotalAmount = totalAmount;
+            Cart = cart ?? throw new ArgumentNullException(nameof(cart));
+            TotalAmount = cart.GetTotal(); // Calcula el total usando Cart
             CreatedAt = DateTime.UtcNow;
-            Status = OrderStatus.Pending; // 👈 Enum en vez de string
+            Status = OrderStatus.Pending;
         }
 
         public void UpdateStatus(OrderStatus newStatus)
         {
-            // Más adelante podés agregar validaciones de transición de estados
             Status = newStatus;
         }
     }
