@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DeliveryGo.Core.Shared.Enums
 {
-    public class ShippingType
+    public enum ShippingType
     {
+        Motorcycle,
+        Mail,
+        StorePickup
     }
 }
