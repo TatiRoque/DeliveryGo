@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj": {}
+    "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj": {}
   },
   "projects": {
-    "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj": {
+    "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj",
+        "projectUniqueName": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj",
         "projectName": "DeliveryGo",
-        "projectPath": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj",
-        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
-        "outputPath": "C:\\Archivos TDS\\Programacion\\Repositorios\\DeliveryGo\\DeliveryGo\\DeliveryGo\\obj\\",
+        "projectPath": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo.csproj",
+        "packagesPath": "C:\\Users\\Maia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maia\\Desktop\\DeliveryGo\\DeliveryGo\\DeliveryGo\\DeliveryGo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
