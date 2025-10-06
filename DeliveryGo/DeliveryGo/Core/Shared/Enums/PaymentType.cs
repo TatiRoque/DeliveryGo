@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DeliveryGo.Core.Shared.Enums
 {
-    public class PaymentType
+    public enum PaymentType
     {
+        CreditCard,
+        BankTransfer,
+        MercadoPago
     }
 }
