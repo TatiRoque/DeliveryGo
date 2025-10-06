@@ -25,7 +25,15 @@ namespace DeliveryGo.Core.Command.Commands
             _quantity = quantity;
         }
 
-        public void Execute() => _cart.AddItem(_sku, _name, _price, _quantity);
+        public void Execute(Cart cart) => _cart.AddItem(_sku, _name, _price, _quantity);
+
+        public void ExecuteInverse(Cart cart)
+
+        {
+
+            cart.RemoveItem(_sku);
+
+        }
     }
 }
 
