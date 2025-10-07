@@ -80,7 +80,17 @@ namespace DeliveryGo.Application.Facade
             if (_payment == null)
                 throw new InvalidOperationException("Payment method is not set.");
 
-            _payment.ProcessPayment(_cart.GetTotal());
+            bool success = _payment.ProcessPayment(_cart.GetTotal());
+
+            if (success)
+            {
+                Console.WriteLine("Payment successful!");
+                _cart.Clear(); // Limpia el carrito después del pago exitoso
+            }
+            else
+            {
+                Console.WriteLine("Payment failed. Please try again.");
+            }
         }
 
         // SHIPPING OPERATIONS
