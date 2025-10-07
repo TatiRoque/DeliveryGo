@@ -12,38 +12,28 @@ namespace DeliveryGo.Core.Command.Commands
     public class SetQuantityCommand : ICommand
     {
         private readonly string _sku;
-        private readonly int _newQuantity;
+        private readonly int _quantity;
         private int _previousQuantity;
 
-        public SetQuantityCommand(string sku, int newQuantity)
+        public SetQuantityCommand(string sku, int quantity)
         {
             _sku = sku;
-            _newQuantity = newQuantity;
+            _quantity = quantity;
         }
 
         public void Execute(Cart cart)
         {
-            foreach (var item in cart.Items)
+            var item = cart.Items.FirstOrDefault(i => i.Sku == _sku);
+            if (item != null)
             {
-                if (item.Sku == _sku)
-                {
-                    _previousQuantity = item.Quantity;
-                    item.SetQuantity(_newQuantity);
-                    break;
-                }
+                _previousQuantity = item.Quantity;
+                cart.UpdateQuantity(_sku, _quantity);
             }
         }
 
         public void ExecuteInverse(Cart cart)
         {
-            foreach (var item in cart.Items)
-            {
-                if (item.Sku == _sku)
-                {
-                    item.SetQuantity(_previousQuantity);
-                    break;
-                }
-            }
+            cart.UpdateQuantity(_sku, _previousQuantity);
         }
     }
 }

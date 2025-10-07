@@ -19,5 +19,9 @@ namespace DeliveryGo.Application.Strategy.ShippingStrategies
         {
             return 1200m;
         }
+        public void Ship(DeliveryGo.Core.Shared.Entities.Order order)
+        {
+            Console.WriteLine($"Order {order.Id} is being delivered by Motorcycle.");
+        }
     }
 }

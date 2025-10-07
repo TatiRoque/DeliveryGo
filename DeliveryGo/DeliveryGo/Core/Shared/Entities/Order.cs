@@ -14,7 +14,6 @@ namespace DeliveryGo.Core.Shared.Entities
         public Cart Cart { get; private set; }
         public decimal TotalAmount { get; private set; }
         public DateTime CreatedAt { get; private set; }
-        public OrderStatus Status { get; private set; }
 
         public Order(Cart cart)
         {
@@ -22,12 +21,6 @@ namespace DeliveryGo.Core.Shared.Entities
             Cart = cart ?? throw new ArgumentNullException(nameof(cart));
             TotalAmount = cart.GetTotal(); // Calcula el total usando Cart
             CreatedAt = DateTime.UtcNow;
-            Status = OrderStatus.Pending;
-        }
-
-        public void UpdateStatus(OrderStatus newStatus)
-        {
-            Status = newStatus;
         }
     }
 }

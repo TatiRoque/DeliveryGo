@@ -19,5 +19,9 @@ namespace DeliveryGo.Application.Strategy.ShippingStrategies
         {
             return subtotal >= 50000m ? 0m : 3500m;
         }
+        public void Ship(DeliveryGo.Core.Shared.Entities.Order order)
+        {
+            Console.WriteLine($"Order {order.Id} is being shipped via Mail.");
+        }
     }
 }

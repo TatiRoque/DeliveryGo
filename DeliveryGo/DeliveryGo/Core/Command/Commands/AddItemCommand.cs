@@ -15,24 +15,21 @@ namespace DeliveryGo.Core.Command.Commands
         private readonly string _name;
         private readonly decimal _price;
         private readonly int _quantity;
-
         public AddItemCommand(Cart cart, string sku, string name, decimal price, int quantity)
         {
-            _cart = cart;
+            _cart = cart ?? throw new ArgumentNullException(nameof(cart));
             _sku = sku;
             _name = name;
             _price = price;
             _quantity = quantity;
         }
-
-        public void Execute(Cart cart) => _cart.AddItem(_sku, _name, _price, _quantity);
-
-        public void ExecuteInverse(Cart cart)
-
+        public void Execute(Cart cart)
         {
-
+            cart.AddItem(_sku, _name, _price, _quantity);
+        }
+        public void ExecuteInverse(Cart cart)
+        {
             cart.RemoveItem(_sku);
-
         }
     }
 }
