@@ -84,7 +84,6 @@ namespace DeliveryGo.Application.Facade
 
             if (success)
             {
-                Console.WriteLine("Payment successful!");
                 _cart.Clear(); // Limpia el carrito después del pago exitoso
             }
             else
